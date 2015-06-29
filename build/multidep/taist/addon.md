@@ -1,0 +1,2 @@
+moysklad-module-example
+=======================

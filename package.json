@@ -1,0 +1,23 @@
+{
+  "name": "moysklad-module-example",
+  "version": "0.0.1",
+  "description": "Example of moysklad-master module",
+  "main": "index.js",
+  "scripts": {
+    "build": "multidep --taist-site-name МойСклад --taist-site-regexp online.moysklad.ru --export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmakeev/moysklad-module-example.git"
+  },
+  "keywords": [
+    "taist",
+    "moysklad",
+    "moysklad-master"
+  ],
+  "author": "Vitaliy V. Makeev",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.0.0"
+  }
+}
